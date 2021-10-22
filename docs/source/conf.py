@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SMS Notification'
+copyright = '2021, Webtize'
+author = 'Raj Dsouza'
 
 release = '0.1'
 version = '0.1.0'
