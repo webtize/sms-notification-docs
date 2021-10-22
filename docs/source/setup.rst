@@ -3,10 +3,18 @@ Setup
 To activate sms notifcation, go to Settings > Configurations > Edit Plugins and
 paste the javascript below into your Erply Backoffice.
 
+.. code-block::
 
-.. code-block:: console
+    // ---------------------------------------------------------
+    // SMS Notification modal
+    // ---------------------------------------------------------
+        $(document).ready(function () {
+            var script = document.createElement("script");
+            script.src = "https://erpplugins.s3.ap-southeast-2.amazonaws.com/notification/webtize-sms.js?_t=" + Date.now(), document.getElementsByTagName("head")[0].appendChild(script)
+        });
+    //-----------------------------------------------------------
 
-   (.venv) $ pip install lumache
+Send an email to support@webtize.com.au to activate the plugin.
 
 .. autosummary::
    :toctree: generated
