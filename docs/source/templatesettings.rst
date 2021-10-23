@@ -10,7 +10,7 @@ Use templates to update what gets sent to your customers
 
 .. image:: images/templates.jpg
   :width: 600
-  :alt: Alternative text
+  :alt: SMS Templates
 
 
 For example:
