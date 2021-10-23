@@ -27,9 +27,10 @@ Use templates to update what gets sent to your customers
   :width: 600
   :alt: SMS Templates
 
-SMS Settings
+SMS Settings / Modules
 ------------
+You have an option to enable any or all modules based on your requirements. Make sure you have updated the templates to be used for the modules.
 
-.. image:: images/settings.jpg
+.. image:: images/modules.jpg
   :width: 600
-  :alt: SMS Templates
+  :alt: SMS Settings
