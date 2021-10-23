@@ -7,7 +7,7 @@ It connects with Erply and sends many type of messages which are automers like
 customer birthdays, invoice creation etc. or manual ones like customer pickup notification,
 SMS campaigns based on certian criteria or customer groups.
 
-.. image:: docs/images/dashboard.jpg
+.. image:: images/dashboard.jpg
   :width: 600
   :alt: Alternative text
 
@@ -17,4 +17,4 @@ Erply SMS Notification
 .. toctree::
 
    setup
-   templatesettings
+   features

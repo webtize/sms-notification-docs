@@ -15,9 +15,21 @@ paste the javascript below into your Erply Backoffice.
         });
     //-----------------------------------------------------------
 
-Send an email to support@webtize.com.au to activate the plugin.
+Send an email to support@webtize.com.au to activate the plugin
 
-.. autosummary::
-   :toctree: generated
 
-   lumache
+Template Settings
+------------
+
+Use templates to update what gets sent to your customers
+
+.. image:: images/templates.jpg
+  :width: 600
+  :alt: SMS Templates
+
+SMS Settings
+------------
+
+.. image:: images/settings.jpg
+  :width: 600
+  :alt: SMS Templates
