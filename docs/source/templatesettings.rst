@@ -1,30 +1,17 @@
-Usage
+Setup
 =====
 
 .. _installation:
 
-Installation
+Template Settings
 ------------
 
-To use Lumache, first install it using pip:
+Use templates to update what gets sent to your customers
 
-.. code-block:: console
+.. image:: docs/images/templates.jpg
+  :width: 600
+  :alt: Alternative text
 
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
 
 For example:
 
