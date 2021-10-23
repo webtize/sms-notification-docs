@@ -8,7 +8,7 @@ Template Settings
 
 Use templates to update what gets sent to your customers
 
-.. image:: docs/images/templates.jpg
+.. image:: images/templates.jpg
   :width: 600
   :alt: Alternative text
 
