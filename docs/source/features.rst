@@ -1,7 +1,13 @@
 Features
 =====
 
+Sms notification has many built-in features which can help communicate with your customers.
 
+* Bulk SMS :ref:`Bulk SMS`
+* Campaign
+* SMS History
+* Pickup SMS
+* No SMS sent if Opt-out selected
 
 Bulk SMS
 ------------
